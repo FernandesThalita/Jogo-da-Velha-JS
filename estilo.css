@@ -109,3 +109,18 @@ input[type=button]:hover{
     background-image: linear-gradient(to bottom,#1E62D0,#3D94F6);
     text-decoration: none;
 }
+
+footer {
+  background-color: #262524;
+  padding: 10px;
+  text-align: center;
+  color:#f0860d;
+  font-size: 18px;
+  font-weight: 600;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+footer,header b{
+  color: #47d9f6;
+}
