@@ -34,19 +34,16 @@ body{
 }
 
 footer {
-    background-color: #262524;
-    padding: 10px;
-    text-align: center;
-    color:#f0860d;
-    font-size: 18px;
-    font-weight: 600;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-  }
-  footer,header b{
-    color: #47d9f6;
-  } 
+  background-color: #262524;
+  padding: 10px;
+  text-align: center;
+  color:#f0860d;
+  font-size: 18px;
+  font-weight: 600;
+}
+footer,header b{
+  color: #47d9f6;
+}
   main{
     display: flex;
     justify-content: center;
